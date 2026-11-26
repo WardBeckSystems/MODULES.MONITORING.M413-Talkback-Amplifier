@@ -32,7 +32,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Closed boxes:** 27
 - **Wiring (first pass):** 57 connected wire groups from 438 runs
 
-Every curve, box, word and wire group: [1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20413-02-002%20-%20TALK%20BACK%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2 (traced).json](../SCHEMATICS/1970%20-%20413-02-002%20-%20TALK%20BACK%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2 (traced).dxf`).
 
 ## Full text
 

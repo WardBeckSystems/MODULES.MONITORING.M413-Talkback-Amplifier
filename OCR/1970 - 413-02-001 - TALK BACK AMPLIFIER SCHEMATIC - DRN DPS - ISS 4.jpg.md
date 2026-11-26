@@ -35,7 +35,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Words (OCR):** 20 in 18 lines: OTHERWISE STATEC · ALL ReSistoRS · UNLESS · MICRc FARADE · R42 · CAPACTOR · C2C · LOT · 14788 · DUTPT · OUT_ · MaRO
 - **Wiring (first pass):** 103 connected wire groups from 702 runs, 4 dotted junctions; labelled ends: 118 mm → 23 FEE; 62 mm → OUT_; 51 mm → MaRO; 50 mm → MaRO; 46 mm → OUT_
 
-Every curve, box, word and wire group: [1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (traced).json](../SCHEMATICS/1970%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%204%20(traced).json) (the CAD file: `1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (traced).json](../SCHEMATICS/1970%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (traced).dxf`).
 
 ## Full text
 

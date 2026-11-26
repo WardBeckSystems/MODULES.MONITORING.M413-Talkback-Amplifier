@@ -24,7 +24,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Title block:** (346, 10)–(430, 30) mm: DBECKSYSIS LiD · DP? · 43 · DATE · TAER · SCKEMATIC
 - **Wiring (first pass):** 137 connected wire groups from 775 runs; labelled ends: 23 mm → DUPL; 22 mm → DUPL; 6 mm → DUPL
 
-Every curve, box, word and wire group: [1969 - M413 - 413-02-001 - TALK BACK AMPLIFIER (traced).json](../SCHEMATICS/1969%20-%20M413%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20(traced).json) (the CAD file: `1969 - M413 - 413-02-001 - TALK BACK AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M413 - 413-02-001 - TALK BACK AMPLIFIER (traced).json](../SCHEMATICS/1969%20-%20M413%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1969 - M413 - 413-02-001 - TALK BACK AMPLIFIER (traced).dxf`).
 
 ## Full text
 

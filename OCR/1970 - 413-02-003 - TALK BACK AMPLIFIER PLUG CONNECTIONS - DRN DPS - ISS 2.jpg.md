@@ -33,7 +33,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 53 connected wire groups from 536 runs
 
-Every curve, box, word and wire group: [1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2 (traced).json](../PINOUTS/1970%20-%20413-02-003%20-%20TALK%20BACK%20AMPLIFIER%20PLUG%20CONNECTIONS%20-%20DRN%20DPS%20-%20ISS%202%20(traced).json) (the CAD file: `1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2 (traced).json](../PINOUTS/1970%20-%20413-02-003%20-%20TALK%20BACK%20AMPLIFIER%20PLUG%20CONNECTIONS%20-%20DRN%20DPS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2 (traced).dxf`).
 
 ## Full text
 

@@ -25,7 +25,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Words (OCR):** 54 in 47 lines: 22 · C5 · Eie · c19 · CJce · 2 6 · ~Lee ] · LR26 · R4 · Oa 22 · 21 · R22
 - **Title block:** (181, 13)–(407, 61) mm: FINISH · WARD · BECK SYSTEMS LTD; · DRN · D.p ; · clean · DATE 2 T FEB 970 · MATERIAL · M413 · CHKD · TALK BACK · AMPLIFIER · SCALE · SVEMHEONGLES · TOLS · MNGBERECRAEO JACIS · 06
 
-Every curve, box, word and wire group: [1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT (traced).json](../SCHEMATICS/1978%20-%20M413%20-%20168-06-001%20-%20TALK%20BACK%20AMPLIFIER%20LAYCUT%20RACT%20(traced).json) (the CAD file: `1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT (traced).json](../SCHEMATICS/1978%20-%20M413%20-%20168-06-001%20-%20TALK%20BACK%20AMPLIFIER%20LAYCUT%20RACT%20%28traced%29.json) (the CAD file: `1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT (traced).dxf`).
 
 ## Full text
 

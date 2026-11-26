@@ -34,7 +34,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Words (OCR):** 13 in 11 lines: Re33tons · Valjes · Miero FARADE · RL YGTOR Rert · LAST CAPACTOR · DUIPUT · DP? · 43 · DATE · TAER · Q24
 - **Wiring (first pass):** 141 connected wire groups from 858 runs, 2 dotted junctions; labelled ends: 116 mm → DATE; 26 mm → 43, DP?; 23 mm → DUIPUT; 22 mm → DUIPUT; 17 mm → DP?
 
-Every curve, box, word and wire group: [1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2) (traced).json](../SCHEMATICS/1970%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%204%20(2)%20(traced).json) (the CAD file: `1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2) (traced).json](../SCHEMATICS/1970%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%204%20%282%29%20%28traced%29.json) (the CAD file: `1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2) (traced).dxf`).
 
 ## Full text
 

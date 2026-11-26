@@ -21,7 +21,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Closed boxes:** 26
 - **Wiring (first pass):** 53 connected wire groups from 402 runs
 
-Every curve, box, word and wire group: [1969 - M413 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING FRACT (traced).json](../SCHEMATICS/1969%20-%20M413%20-%20413-02-002%20-%20TALK%20BACK%20AMPLIFIER%20SYSTEM%20WIRING%20FRACT%20(traced).json) (the CAD file: `1969 - M413 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING FRACT (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M413 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING FRACT (traced).json](../SCHEMATICS/1969%20-%20M413%20-%20413-02-002%20-%20TALK%20BACK%20AMPLIFIER%20SYSTEM%20WIRING%20FRACT%20%28traced%29.json) (the CAD file: `1969 - M413 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING FRACT (traced).dxf`).
 
 ## Full text
 

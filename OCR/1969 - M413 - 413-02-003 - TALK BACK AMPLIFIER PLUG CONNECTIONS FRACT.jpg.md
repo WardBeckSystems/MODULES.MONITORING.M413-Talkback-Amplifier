@@ -22,7 +22,7 @@ Wiki page: [M413](../../../../PAGES/M413.md)
 - **Dots (junctions):** 2
 - **Wiring (first pass):** 48 connected wire groups from 497 runs
 
-Every curve, box, word and wire group: [1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT (traced).json](../PINOUTS/1969%20-%20M413%20-%20413-02-003%20-%20TALK%20BACK%20AMPLIFIER%20PLUG%20CONNECTIONS%20FRACT%20(traced).json) (the CAD file: `1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT (traced).dxf`).
+Every curve, box, word and wire group: [1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT (traced).json](../PINOUTS/1969%20-%20M413%20-%20413-02-003%20-%20TALK%20BACK%20AMPLIFIER%20PLUG%20CONNECTIONS%20FRACT%20%28traced%29.json) (the CAD file: `1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT (traced).dxf`).
 
 ## Full text
 
