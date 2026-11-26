@@ -1,0 +1,116 @@
+{
+ "drawing": "Modules/MONITORING/M413/MECHANICAL/1969 - 413-03-002 - SWITCH MTG. PLATE - ISS 3.jpg",
+ "version": 1,
+ "trace": "_traces/e60d4900f444deb9.svg",
+ "sheet": {
+  "number": "B 413-03-002",
+  "title": "SWITCH MTG. PLATE",
+  "dtype": "03",
+  "type": "mechanical",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 8.7, 431.9, 298.6],
+ "outlines": {
+  "line": {"rings": 418, "straight": {"n": 6099, "mm": 11073.4}, "curved": {"n": 807, "mm": 1083.7}},
+  "text": {"rings": 272, "straight": {"n": 2045, "mm": 2164.0}, "curved": {"n": 592, "mm": 840.7}},
+  "tb": {"rings": 34, "straight": {"n": 379, "mm": 359.2}, "curved": {"n": 52, "mm": 71.2}}
+ },
+ "centre_lines": {
+  "layers": {
+   "line": {"paths": 4947, "straight": {"n": 5117, "mm": 5981.0}, "curved": {"n": 72, "mm": 131.4}},
+   "text": {"paths": 1541, "straight": {"n": 2095, "mm": 1633.3}, "curved": {"n": 0, "mm": 0.0}},
+   "tb": {"paths": 308, "straight": {"n": 338, "mm": 465.0}, "curved": {"n": 0, "mm": 0.0}}
+  },
+  "closed_paths": 55,
+  "orientation": {"horizontal": {"n": 2042, "mm": 3991.4}, "vertical": {"n": 1917, "mm": 1881.3}, "diagonal": {"n": 3591, "mm": 2206.6}},
+  "note": "straight runs by direction (within 5°); curved = runs that fit a circle"
+ },
+ "circles": [
+  {"c": [116.7, 154.4], "r": 12.3, "kind": "arc", "span": 256, "from": ["centre line"], "start": 178},
+  {"c": [160.2, 153.8], "r": 5.0, "kind": "circle", "span": 355, "from": ["centre line"]},
+  {"c": [236.6, 153.9], "r": 2.6, "kind": "arc", "span": 171, "from": ["centre line"], "start": 86},
+  {"c": [172.0, 154.6], "r": 2.5, "kind": "arc", "span": 93, "from": ["centre line"], "start": 181},
+  {"c": [236.3, 153.8], "r": 2.3, "kind": "arc", "span": 180, "from": ["centre line"], "start": 267},
+  {"c": [193.6, 15.2], "r": 1.3, "kind": "arc", "span": 167, "from": ["centre line"], "start": 205},
+  {"c": [243.0, 166.6], "r": 1.2, "kind": "arc", "span": 121, "from": ["centre line"], "start": 15},
+  {"c": [232.7, 91.3], "r": 1.1, "kind": "circle", "span": 337, "from": ["centre line"]},
+  {"c": [40.6, 10.4], "r": 1.1, "kind": "arc", "span": 166, "from": ["centre line"], "start": 308},
+  {"c": [200.8, 15.8], "r": 0.9, "kind": "arc", "span": 186, "from": ["centre line"], "start": 228},
+  {"c": [191.0, 14.3], "r": 0.9, "kind": "arc", "span": 177, "from": ["centre line"], "start": 359},
+  {"c": [334.3, 197.0], "r": 0.7, "kind": "arc", "span": 266, "from": ["centre line"], "start": 97}
+ ],
+ "boxes": [
+  {"mm": [172.7, 173.2, 175.1, 209.6], "w": 2.4, "h": 36.5, "from": "ring"},
+  {"mm": [236.8, 172.9, 242.7, 199.7], "w": 5.8, "h": 26.8, "from": "ring"},
+  {"mm": [172.7, 167.3, 174.9, 172.7], "w": 2.2, "h": 5.4, "from": "ring"},
+  {"mm": [232.1, 167.1, 236.6, 172.7], "w": 4.5, "h": 5.6, "from": "ring"},
+  {"mm": [95.6, 154.6, 98.7, 167.5], "w": 3.1, "h": 13.0, "from": "ring"},
+  {"mm": [175.1, 145.9, 231.7, 161.3], "w": 56.6, "h": 15.3, "from": "ring"},
+  {"mm": [236.8, 135.4, 246.1, 145.5], "w": 9.3, "h": 10.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 46,
+  "lines": [
+   {"mm": [166.7, 235.5, 175.3, 245.1], "text": "54"},
+   {"mm": [76.9, 227.8, 87.2, 233.3], "text": "'125"},
+   {"mm": [162.4, 226.9, 178.5, 233.4], "text": "5.500-"},
+   {"mm": [101.3, 217.6, 111.0, 223.1], "text": "\"813"},
+   {"mm": [135.8, 216.8, 152.2, 223.7], "text": "2.508"},
+   {"mm": [129.1, 206.4, 144.2, 212.9], "text": "1.625"},
+   {"mm": [195.6, 207.3, 210.7, 212.8], "text": "2.480"},
+   {"mm": [195.6, 197.1, 210.7, 202.6], "text": "2.215"},
+   {"mm": [252.4, 197.1, 272.9, 201.9], "text": "\"092NtS"},
+   {"mm": [36.9, 152.2, 49.4, 157.7], "text": "1'000"},
+   {"mm": [260.2, 150.3, 271.0, 156.7], "text": "625"},
+   {"mm": [43.4, 123.1, 58.1, 127.9], "text": "8 DIA"},
+   {"mm": [59.6, 122.6, 77.9, 128.1], "text": "2 Req"},
+   {"mm": [162.1, 123.7, 179.0, 128.5], "text": "32 DIA;"},
+   {"mm": [133.0, 121.6, 142.7, 125.4], "text": "DLA"},
+   {"mm": [239.9, 118.7, 275.1, 123.1], "text": "093 DIA.CSk."},
+   {"mm": [273.8, 117.9, 291.7, 123.6], "text": "825 To"},
+   {"mm": [304.6, 118.3, 314.4, 122.6], "text": "DIA"},
+   {"mm": [165.4, 108.0, 181.1, 113.5], "text": "4'750"},
+   {"mm": [246.3, 63.3, 293.4, 68.5], "text": "2-56 Tap 4 REQ;"},
+   {"mm": [190.2, 39.9, 238.8, 45.2], "text": "DRN C,$,0 CONNELL"},
+   {"mm": [241.6, 42.7, 257.1, 47.5], "text": "Finish"},
+   {"mm": [322.6, 37.4, 365.1, 46.9], "text": "WARD BECK"},
+   {"mm": [368.3, 36.7, 415.4, 47.0], "text": "SYSTEMS Ltd;"},
+   {"mm": [247.0, 36.7, 257.1, 41.5], "text": "120"},
+   {"mm": [262.1, 37.4, 275.5, 41.7], "text": "GRiT"},
+   {"mm": [190.0, 30.4, 229.7, 36.9], "text": "DATE NOv - 6 9"},
+   {"mm": [253.5, 31.7, 271.2, 36.1], "text": "BLACK"},
+   {"mm": [189.8, 21.6, 202.7, 27.1], "text": "CHKD"},
+   {"mm": [205.3, 17.3, 220.0, 29.3], "text": "2ly"},
+   {"mm": [242.7, 23.7, 264.3, 29.3], "text": "MATERIAL"},
+   {"mm": [327.3, 19.0, 362.9, 28.6], "text": "SWITCH"},
+   {"mm": [368.3, 18.4, 417.6, 28.7], "text": "MTG. PLATE"},
+   {"mm": [252.8, 16.2, 269.7, 21.0], "text": "\"064"},
+   {"mm": [273.3, 16.2, 291.7, 21.5], "text": "ALUM"},
+   {"mm": [339.2, 2.6, 369.4, 8.1], "text": "418 03"},
+   {"mm": [377.0, 2.6, 389.9, 7.4], "text": "0 0 2"}
+  ]
+ },
+ "title_block": {
+  "mm": [181.4, 24.4, 406.7, 53.1],
+  "from": "title-block words (training set)",
+  "text": ["DRN C,$,0 CONNELL", "Finish", "WARD BECK", "SYSTEMS Ltd;", "120", "GRiT", "DATE NOv - 6 9", "BLACK", "CHKD", "MATERIAL"]
+ },
+ "dots": [{"c": [13.1, 13.0], "r": 0.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** mechanical B 413-03-002, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 9–299 mm up",
+  "- **Outlines:** line 418 rings, 6,099 straight (11,073 mm) / 807 curved (1,084 mm); text 272 rings, 2,045 straight (2,164 mm) / 592 curved (841 mm); tb 34 rings, 379 straight (359 mm) / 52 curved (71.2 mm)",
+  "- **Centre lines:** 6,796 paths (55 closed); straight 8,079 mm, curved 131 mm; horizontal 3,991 mm, vertical 1,881 mm, diagonal 2,207 mm",
+  "- **Circles and arcs:** 2 circles, 10 arcs; largest r 5.0 @ (160.2, 153.8), r 1.1 @ (232.7, 91.3)",
+  "- **Closed boxes:** 7",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 46 in 37 lines: 54 · '125 · 5.500- · \"813 · 2.508 · 1.625 · 2.480 · 2.215 · \"092NtS · 1'000 · 625 · 8 DIA",
+  "- **Title block:** (181, 24)–(407, 53) mm: DRN C,$,0 CONNELL · Finish · WARD BECK · SYSTEMS Ltd; · 120 · GRiT · DATE NOv - 6 9 · BLACK · CHKD · MATERIAL"
+ ]
+}
