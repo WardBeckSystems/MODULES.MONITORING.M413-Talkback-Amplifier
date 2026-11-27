@@ -3,14 +3,491 @@
  "connector": "RTO-144",
  "type": null,
  "series": null,
- "contacts": "",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": null,
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [],
- "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M413/M413.rto144.json"
- ]
+ "built_from": {
+  "pictures": [
+   "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+   "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M413/M413.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT DC CONTROL 1",
+   "kind": "control_in",
+   "port": "EXT DC CONTROL 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT DC CONTROL 2",
+   "kind": "control_in",
+   "port": "EXT DC CONTROL 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT DC CONTROL 3",
+   "kind": "control_in",
+   "port": "EXT DC CONTROL 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "UNREAD (probably EXT DC CONTROL 4)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "ref": "15",
+   "also": "S",
+   "same_row": null,
+   "signal": "INSERT RETURN",
+   "kind": "insert_return",
+   "port": "INSERT RETURN",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "ref": "16",
+   "also": "T",
+   "same_row": null,
+   "signal": "INSERT RETURN",
+   "kind": "insert_return",
+   "port": "INSERT RETURN",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "ref": "18",
+   "also": "V",
+   "same_row": true,
+   "signal": "COMMON (-)",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "ref": "19",
+   "also": "W",
+   "same_row": true,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "ref": "20",
+   "also": "X",
+   "same_row": null,
+   "signal": "+24 V UNREGULATED",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 1",
+   "kind": "out",
+   "port": "TALKBACK OUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 1",
+   "kind": "out",
+   "port": "TALKBACK OUT 1",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 2",
+   "kind": "out",
+   "port": "TALKBACK OUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 2",
+   "kind": "out",
+   "port": "TALKBACK OUT 2",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 3",
+   "kind": "out",
+   "port": "TALKBACK OUT 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 3",
+   "kind": "out",
+   "port": "TALKBACK OUT 3",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 4",
+   "kind": "out",
+   "port": "TALKBACK OUT 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "TALKBACK OUT 4",
+   "kind": "out",
+   "port": "TALKBACK OUT 4",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "S",
+   "ref": "S",
+   "also": "15",
+   "same_row": null,
+   "signal": "INSERT SEND",
+   "kind": "insert_send",
+   "port": "INSERT SEND",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "T",
+   "ref": "T",
+   "also": "16",
+   "same_row": null,
+   "signal": "INSERT SEND",
+   "kind": "insert_send",
+   "port": "INSERT SEND",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "V",
+   "ref": "V",
+   "also": "18",
+   "same_row": null,
+   "signal": "COMMON (-)",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "W",
+   "ref": "W",
+   "also": "19",
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
+   "pin": "X",
+   "ref": "X",
+   "also": "20",
+   "same_row": true,
+   "signal": "+24 V UNREGULATED",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M413/PINOUTS/1969 - M413 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS FRACT.pinout.json",
+    "M413/PINOUTS/1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "TALKBACK OUT 1",
+   "dir": "out",
+   "pins": {
+    "a": "P1-A",
+    "b": "P1-B"
+   }
+  },
+  {
+   "name": "TALKBACK OUT 2",
+   "dir": "out",
+   "pins": {
+    "a": "P1-C",
+    "b": "P1-D"
+   }
+  },
+  {
+   "name": "TALKBACK OUT 3",
+   "dir": "out",
+   "pins": {
+    "a": "P1-E",
+    "b": "P1-F"
+   }
+  },
+  {
+   "name": "TALKBACK OUT 4",
+   "dir": "out",
+   "pins": {
+    "a": "P1-H",
+    "b": "P1-J"
+   }
+  },
+  {
+   "name": "EXT DC CONTROL 1",
+   "dir": "control_in",
+   "pins": {
+    "ctl": "P1-1"
+   }
+  },
+  {
+   "name": "EXT DC CONTROL 2",
+   "dir": "control_in",
+   "pins": {
+    "ctl": "P1-3"
+   }
+  },
+  {
+   "name": "EXT DC CONTROL 3",
+   "dir": "control_in",
+   "pins": {
+    "ctl": "P1-5"
+   }
+  },
+  {
+   "name": "INSERT SEND",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P1-S",
+    "b": "P1-T"
+   }
+  },
+  {
+   "name": "INSERT RETURN",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-16"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "JACK FIELD INSERT",
+   "send": "INSERT SEND",
+   "return": "INSERT RETURN",
+   "normalled": false,
+   "note": "Note 1: if jackfield insert facility not required strap 15 to S and 16 to T to bypass the insert function (strap drawn dashed)."
+  }
+ ],
+ "straps": [
+  {
+   "name": "INSERT BYPASS",
+   "pins": [
+    "P1-15",
+    "P1-S"
+   ],
+   "note": "Note 1, drawn dashed"
+  }
+ ],
+ "conflicts": [],
+ "to_check": []
 }

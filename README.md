@@ -62,10 +62,36 @@ Not on Google Drive yet: `1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIO
 
 ## RTO-144 pinout
 
-RTO-144 edge connector. Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 2 pinout pictures (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**Inserts:** JACK FIELD INSERT: INSERT SEND → INSERT RETURN
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
+| 1 | EXT DC CONTROL 1 | control_in | EXT DC CONTROL 1 | medium |
+| 3 | EXT DC CONTROL 2 | control_in | EXT DC CONTROL 2 | medium |
+| 5 | EXT DC CONTROL 3 | control_in | EXT DC CONTROL 3 | medium |
+| 7 | UNREAD (probably EXT DC CONTROL 4) | other |  | medium |
+| 15 | INSERT RETURN | insert_return | INSERT RETURN | medium |
+| 16 | INSERT RETURN | insert_return | INSERT RETURN | medium |
+| 18 | COMMON (-) | ground |  | medium |
+| 19 | CHASSIS GROUND | ground |  | medium |
+| 20 | +24 V UNREGULATED | power |  | medium |
+| A | TALKBACK OUT 1 | out | TALKBACK OUT 1 | medium |
+| B | TALKBACK OUT 1 | out | TALKBACK OUT 1 | medium |
+| C | TALKBACK OUT 2 | out | TALKBACK OUT 2 | medium |
+| D | TALKBACK OUT 2 | out | TALKBACK OUT 2 | medium |
+| E | TALKBACK OUT 3 | out | TALKBACK OUT 3 | medium |
+| F | TALKBACK OUT 3 | out | TALKBACK OUT 3 | medium |
+| H | TALKBACK OUT 4 | out | TALKBACK OUT 4 | medium |
+| J | TALKBACK OUT 4 | out | TALKBACK OUT 4 | medium |
+| S | INSERT SEND | insert_send | INSERT SEND | medium |
+| T | INSERT SEND | insert_send | INSERT SEND | medium |
+| V | COMMON (-) | ground |  | medium |
+| W | CHASSIS GROUND | ground |  | medium |
+| X | +24 V UNREGULATED | power |  | medium |
+
+**Straps:** INSERT BYPASS: P1-15 P1-S
 
 ## Manuals and documents
 
