@@ -1,5 +1,5 @@
 # 1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2.jpg
-Wiki page: [M413](../../../../PAGES/M413.md)
+Wiki page: [M413](../)
 
 
 - **Year:** 1970 (title block date)

@@ -1,5 +1,5 @@
 # 1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT.jpg
-Wiki page: [M413](../../../../PAGES/M413.md)
+Wiki page: [M413](../)
 
 
 - **Year:** 1978 (found in this file: "FEB. 1978")

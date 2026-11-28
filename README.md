@@ -1,6 +1,6 @@
 # M413 Talkback Amplifier · Monitoring
 
-Ward-Beck Systems M413, 1969|2. Wiki page: [M413 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M413.html)
+Ward-Beck Systems M413, 1969|2. Wiki page: [M413 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M413-Talkback-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

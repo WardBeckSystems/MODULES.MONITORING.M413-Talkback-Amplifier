@@ -1,5 +1,5 @@
 # 1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2).jpg
-Wiki page: [M413](../../../../PAGES/M413.md)
+Wiki page: [M413](../)
 
 
 - **Year:** 1970 (title block date)

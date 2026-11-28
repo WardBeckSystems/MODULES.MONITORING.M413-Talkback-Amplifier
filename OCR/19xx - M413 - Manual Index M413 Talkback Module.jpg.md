@@ -1,5 +1,5 @@
 # 19xx - M413 - Manual Index M413 Talkback Module.jpg
-Wiki page: [M413](../../../../PAGES/M413.md)
+Wiki page: [M413](../)
 
 
 - **Year:** unknown (title block (read by eye))

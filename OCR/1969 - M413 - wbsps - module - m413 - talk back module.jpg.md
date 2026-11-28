@@ -1,5 +1,5 @@
 # 1969 - M413 - wbsps - module - m413 - talk back module.jpg
-Wiki page: [M413](../../../../PAGES/M413.md)
+Wiki page: [M413](../)
 
 
 - **Year:** 1969 (module estimate (labelled))
