@@ -4,13 +4,12 @@ Ward-Beck Systems M413, 1969|2. Wiki page: [M413 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 23 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 10 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 14 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 7 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 16 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 22 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 13 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 6 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 15 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 28 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -35,8 +34,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
-Not on Google Drive yet: `1969 - 413-03-001 - ESCUTCHEON - ISS 5.jpg`, `1969 - 413-03-002 - SWITCH MTG. PLATE - ISS 3.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M413.stl`](MECHANICAL/M413.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M413)
@@ -53,13 +50,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LD6zzCNSkYBqejKNvfDAOU2OqlFT17iA/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LD6zzCNSkYBqejKNvfDAOU2OqlFT17iA" width="240" alt="1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4.jpg"></a><br><sub>1970|3 · 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 · <a href="SCHEMATICS/1970%20-%20413-02-001%20-%20TALK%20BACK%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DPS%20-%20ISS%204%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKb29ic19sQU5WcEE/view?resourcekey=0-Rv34i4jjAIzTYwvnOCU1qg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKb29ic19sQU5WcEE&resourcekey=0-Rv34i4jjAIzTYwvnOCU1qg" width="240" alt="1978 - M413 - 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT.jpg"></a><br><sub>1978|11 · 168-06-001 - TALK BACK AMPLIFIER LAYCUT RACT · <a href="SCHEMATICS/1978%20-%20M413%20-%20168-06-001%20-%20TALK%20BACK%20AMPLIFIER%20LAYCUT%20RACT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1970 - 413-02-001 - TALK BACK AMPLIFIER SCHEMATIC - DRN DPS - ISS 4 (2).jpg`, `1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.jpg`, `M413 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -103,8 +96,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaTF5N29hTG40MU0/view?resourcekey=0-9bD8x6nqjta6VlfQpn2znA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaTF5N29hTG40MU0&resourcekey=0-9bD8x6nqjta6VlfQpn2znA" width="240" alt="1969 - M413 - P4.jpg"></a><br><sub>1969|2 · P4</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVTZab2d5S05uNHM/view?resourcekey=0-o_sA9UFG4IgXslOG86z6BA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVTZab2d5S05uNHM&resourcekey=0-o_sA9UFG4IgXslOG86z6BA" width="240" alt="1969 - M413 - P5.jpg"></a><br><sub>1969|2 · P5</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M413 - Manual Index M413 Talkback Module.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -117,7 +108,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1970 - 413-02-002 - TALK BACK AMPLIFIER SYSTEM WIRING - DRN DPS - ISS 2.kicad_sch](KICAD/1970%20-%20413-02-002%20-%20TALK%20BACK%20AMPLIFIER%20SYSTEM%20WIRING%20-%20DRN%20DPS%20-%20ISS%202.kicad_sch)
 - [1970 - 413-02-003 - TALK BACK AMPLIFIER PLUG CONNECTIONS - DRN DPS - ISS 2.kicad_sch](KICAD/1970%20-%20413-02-003%20-%20TALK%20BACK%20AMPLIFIER%20PLUG%20CONNECTIONS%20-%20DRN%20DPS%20-%20ISS%202.kicad_sch)
 - [M413.kicad_sym](KICAD/M413.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
